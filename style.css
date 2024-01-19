@@ -1,0 +1,11 @@
+body{
+    margin: 4em;
+    padding: 5px;
+}
+p{
+    text-align: justify;
+}
+.img1{
+    width: 500px;
+    height: 400px;
+}
